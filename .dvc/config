@@ -1,0 +1,2 @@
+['remote "mylocal"']
+    url = ../local_s3
